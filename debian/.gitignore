@@ -1,0 +1,6 @@
+*.log
+*.debhelper
+*.substvars
+/files
+/tmp
+/bbcarchdev-keys
