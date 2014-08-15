@@ -5,8 +5,8 @@ Maintainer: Mo McRoberts <mo.mcroberts@bbc.co.uk>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.3
 Homepage: https://confluence.dev.bbc.co.uk/display/ADOPS
-Vcs-Git: git://github.com/bbcarchdev/deb-bbcarchdev-sandbox.git
-Vcs-Browser: https://github.com/bbcarchdev/deb-bbcarchdev-sandbox
+Vcs-Git: git://github.com/bbcarchdev/deb-bbcarchdev-keys.git
+Vcs-Browser: https://github.com/bbcarchdev/deb-bbcarchdev-keys
 
 Package: bbcarchdev-keys
 Architecture: any
