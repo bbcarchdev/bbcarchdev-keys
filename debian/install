@@ -5,3 +5,5 @@
 ../../fa183f15.0 etc/ssl/certs
 ../../cloud.pem etc/ssl/certs
 ../../24d17d55.0 etc/ssl/certs
+../../access-all-staff-services-siemens-noduplicates.pem etc/ssl/certs
+../../development-server-services-chain.pem etc/ssl/certs
