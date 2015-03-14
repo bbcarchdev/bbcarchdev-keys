@@ -1,4 +1,6 @@
 ../../bbcarchdev-apt.gpg etc/apt/trusted.gpg.d
+../../apt.postgresql.org.gpg etc/apt/trusted.gpg.d
+../../apt.puppetlabs.com.gpg etc/apt/trusted.gpg.d
 ../../greenhouse.pem etc/ssl/certs
 ../../f5b6aa4b.0 etc/ssl/certs
 ../../ddo.pem etc/ssl/certs
